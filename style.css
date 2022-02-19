@@ -1,0 +1,53 @@
+body{
+    background-image: linear-gradient(to right top, #6babd1, #7ca1db, #9f92d9, #c57fc6, #e26ca2, #f66c8a, #ff746e, #ff8351, #ffa046, #ffbf42, #f7dd49, #e6fb5f);
+}
+#heading{
+    font-size: xx-large;
+    font-weight: 800;
+    color: white;
+    font-family: 'Bangers', cursive;
+    letter-spacing: 4px;
+}
+#button_start{
+    font-size: x-large;
+    font-weight: 800;
+color: white;
+    font-family: 'Bangers', cursive;
+    letter-spacing: 4px;
+background-color: #F69247;
+border-color: black;
+border-width: 2px;
+}
+#status{
+    font-size: x-large;
+    font-weight: 800;
+    color: white;
+    font-family: 'Bangers', cursive;
+    letter-spacing: 4px;
+}
+#footer{
+width: 100%;
+bottom: 25;
+position: fixed;
+text-align:center ;
+font-size: x-large;
+font-weight: 800;
+color: white;
+font-family: 'Bangers', cursive;
+letter-spacing: 4px;
+}
+canvas{
+    background-color: white;
+border: black;
+border-radius: 25px;
+margin-top: 90px;
+border-width: 15px;
+}
+input{
+    font-size: large;
+    font-weight: 300;
+    font-family: 'Bangers', cursive;
+    letter-spacing: 4px;
+border-color: black;
+border-width: 2px;
+}
